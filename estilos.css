@@ -1,0 +1,35 @@
+ul{
+    font-size: 30px;
+}
+h1{
+    font-size: 50px;
+    color:rgb(53, 53, 155);
+    text-align: center;
+}
+.txtp1{
+    font-size: 20px;
+    text-align: justify;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.txtfinp1{
+    font-size: 25px;
+    text-align: center;
+    font-family: Georgia;
+    color: rgb(72, 72, 150);
+}
+a{
+    font-size: 25px;
+    text-align: left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(72, 72, 150);
+    line-height: 45px;
+}
+a:hover{
+    color: rgb(120, 120, 161);
+    font-size: 27px;
+}
+p{
+    font-size: 25px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
